@@ -6,3 +6,5 @@ chicken
 
 swim
 
+eat 
+eat dumplings
